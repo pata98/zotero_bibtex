@@ -3,7 +3,6 @@
 This is a script to update a BibTeX file using the metadata from the PDFs in a Zotero WebDAV database folder.
 
 ## How to use
----
 1. Install the dependencies
 ```bash
 pip install -r requirements.txt
@@ -18,6 +17,5 @@ python bibtex_updater.py --webdav-url http://your.url/dir --username user_name -
 
 
 ## Updates
----
 - 2024.12.31: Initial release
 - Automatic update version is coming soon...!
