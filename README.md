@@ -18,4 +18,7 @@ python3 bibtex_updater.py --webdav-url http://your.url/dir --username user_name 
 
 ## Updates
 - 2024.12.31: Initial release
-- Automatic update version is coming soon...!
+
+## To Do
+- [ ] Automatic syncing
+- [ ] Fix metadata read bug
