@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 2. Run the script
 ```bash
-python3 bibtex_updater.py --webdav-url http://your.url/dir --username user_name --password password
+python3 bibtex_updater.py --webdav-url http://your.url/dir --username user_name --password password --bibtex-path path_of_bibtex.bib
 ```
 
 3. The script will update the BibTeX file with the metadata from the PDFs in the WebDAV database folder.
