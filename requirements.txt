@@ -5,8 +5,5 @@ urllib3>=2.1.0
 # PDF processing
 PyPDF2>=3.0.0
 
-# XML parsing (usually included in Python standard library)
-xml.etree.ElementTree
-
 # Type hints (usually included in Python standard library)
 typing
